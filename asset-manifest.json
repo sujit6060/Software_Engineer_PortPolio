@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Software_Engineer_PortPolio/static/css/main.241951ba.css",
+    "main.js": "/Software_Engineer_PortPolio/static/js/main.13fe3fe2.js",
+    "index.html": "/Software_Engineer_PortPolio/index.html",
+    "main.241951ba.css.map": "/Software_Engineer_PortPolio/static/css/main.241951ba.css.map",
+    "main.13fe3fe2.js.map": "/Software_Engineer_PortPolio/static/js/main.13fe3fe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.13fe3fe2.js"
+  ]
+}
